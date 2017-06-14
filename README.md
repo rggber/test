@@ -1,2 +1,2 @@
 # test
-a test repository
+A test repository where we practice github. 
